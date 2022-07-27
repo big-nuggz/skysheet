@@ -23,6 +23,12 @@ body.darkmode {
     background: rgb(64, 64, 64);
 }
 
+footer {
+    display: block;
+    position: absolute;
+    bottom: 2%;
+}
+
 .fullscreen-button {
     position: absolute;
     top: 5%;
